@@ -57,6 +57,6 @@ int main() {
 	cout << "str3: ";
 	str3.outputstr();
 	cout << "str counter: " << str3.getCounter();
-	
+
 	return 0;
 }
